@@ -1,0 +1,1 @@
+export { SegmentifyQueryProvider } from './SegmentifyQueryProvider';
